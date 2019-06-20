@@ -16,7 +16,7 @@ library(ggthemes)
 library(caret)
 library(MASS)
 library(randomForest)
-library(party)
+#library(party)
 library(DT)
 
 churn <- read.csv('Telco-Customer-Churn.csv')
